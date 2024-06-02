@@ -13,15 +13,6 @@ Desenvolver um sistema de gerenciamento de tarefas (To-Do List) em C, aplicando 
 5. **Deques**: Implementar um deque para permitir a remoção eficiente tanto do início quanto do final da lista de tarefas.
 6. **Funções adicionais**: Implementar uma função recursiva para percorrer a lista de tarefas e realizar alguma operação específica (ex: contar o número total de tarefas).
 
-## Estrutura do Projeto
-
-O projeto está dividido em vários arquivos principais, cada um responsável por uma parte específica do sistema:
-
-1. **Fila Estática (`FilaEstatica.h`, `FilaEstatica.c`)**: Implementa a fila estática para o agendamento de consultas com médicos.
-2. **Fila Dinâmica (`FilaDinamica.h`, `FilaDinamica.c`)**: Implementa a fila dinâmica para o agendamento de consultas com enfermagem.
-3. **Interface de Usuário (`main.c`)**: Contém a função `main` e a interface de usuário para interagir com o sistema de agendamento.
-
-
 ## Contato
 - **Autor:** Kawan Melo
 - **Email:** [kawangcmelo@gmail.com](mailto:kawangcmelo@gmail.com)
